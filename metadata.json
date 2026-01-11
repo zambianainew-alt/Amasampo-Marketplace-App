@@ -1,0 +1,9 @@
+{
+  "name": "AMASAMPO",
+  "description": "Africa's Digital Hustle Marketplace - Buy, sell, find work, and promote your business in one hyper-local ecosystem.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
